@@ -14,14 +14,14 @@ This Task using your computer's resource.
 
 Just add your Ublock Origin or Adblock Plus's filterlist
 
-	https://github.com/alstjr7375/MineBlockFilter/blob/master/MinerBlocker.txt
+	https://raw.githubusercontent.com/alstjr7375/MineBlockFilter/master/MinerBlocker.txt
 
 ## Filter List
 * No Miners - https://github.com/Shaa3/nominers
 * Mining Blocker - http://mining-blocker.com/
 * NoMiner - https://mybrowseraddon.com/block-miners.html
 * Coin-Blocker - https://github.com/Brandon-T/Coin-Blocker
-Will Added.
+  (Will Added.)
 * MinerBlock - https://addons.mozilla.org/en-US/firefox/addon/minerblock-no-coin-miners/
 * No Coin - https://github.com/keraf/NoCoin
 * CoinBlock  - https://addons.mozilla.org/en-US/firefox/addon/coinblock/
