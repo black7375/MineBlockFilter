@@ -1,5 +1,15 @@
 # [ Mine Block Filter ]
 
+![Logo](icon.PNG)
+
+Web Browser's coin miner block filter.
+
+[TOC]
+
+* * *
+
+## What To Do??
+
 Some Websites are making your brower to Coin Miner!!!
 
 like this.

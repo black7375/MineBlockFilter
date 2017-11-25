@@ -1,3 +1,8 @@
+[Adblock Plus 2.0]
+! Homepage: https://github.com/alstjr7375/MineBlockFilter
+! Version: 20171125
+! Title: MineBlockFilter
+
 ! No Miners - https://github.com/Shaa3/nominers
 *://cnhv.co/*
 *://coinhive.com/lib*
