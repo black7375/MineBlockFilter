@@ -4,8 +4,7 @@ Some Websites are making your brower to Coin Miner!!!
 
 like this.
 
-[![PirateBay](http://img.youtube.com/vi/FXPm_KWBL2s
-/0.jpg)](https://youtu.be/FXPm_KWBL2s?t=227)
+[![PirateBay](http://img.youtube.com/vi/FXPm_KWBL2s/0.jpg)](https://youtu.be/FXPm_KWBL2s?t=227)
 
 This Task using your computer's resource.
 
