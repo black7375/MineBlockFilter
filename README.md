@@ -11,6 +11,7 @@ This Task using your computer's resource.
 * * *
 
 **Mine Block Filter will block coinminer.**
+
 Just add your Ublock Origin or Adblock Plus's filterlist
 
 	https://github.com/alstjr7375/MineBlockFilter/blob/master/MinerBlocker.txt
