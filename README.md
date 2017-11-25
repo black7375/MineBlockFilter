@@ -16,7 +16,7 @@ Just add your Ublock Origin or Adblock Plus's filterlist
 
 	https://github.com/alstjr7375/MineBlockFilter/blob/master/MinerBlocker.txt
 
-##Filter List
+## Filter List
 * No Miners - https://github.com/Shaa3/nominers
 * Mining Blocker - http://mining-blocker.com/
 * NoMiner - https://mybrowseraddon.com/block-miners.html
